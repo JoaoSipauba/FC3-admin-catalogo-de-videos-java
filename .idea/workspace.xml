@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3d9303b-7c2e-415b-8606-0c7b6a616c2b" name="Changes" comment="configurando submodulos do projeto base">
+    <list default="true" id="d3d9303b-7c2e-415b-8606-0c7b6a616c2b" name="Changes" comment="Criando a entidade category com TDD">
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/AggregateRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/Identifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/ValueObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/fullcycle/admin/catalogo/application/UseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/com/fullcycle/admin/catalogo/application/UseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/main/java/com/fullcycle/admin/catalogo/domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/com/fullcycle/admin/catalogo/domain/category/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/src/test/java/com/fullcycle/admin/catalogo/domain/CategoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/test/java/com/fullcycle/admin/catalogo/domain/category/CategoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +195,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675204301055</updated>
-      <workItem from="1675204302727" duration="2049000" />
+      <workItem from="1675204302727" duration="5994000" />
     </task>
     <task id="LOCAL-00001" summary="configurando submodulos do projeto base">
       <created>1675205194078</created>
@@ -203,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675205194078</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criando a entidade category com TDD">
+      <created>1675206597283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675206597283</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +230,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="configurando submodulos do projeto base" />
-    <option name="LAST_COMMIT_MESSAGE" value="configurando submodulos do projeto base" />
+    <MESSAGE value="Criando a entidade category com TDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando a entidade category com TDD" />
   </component>
 </project>
